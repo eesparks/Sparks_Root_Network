@@ -1,7 +1,9 @@
 ##Summary of Scripts and Data Used in Sparks et al. Developmental Cell, 2016  
 
 ---   
-*This repository contains the data and scripts used for the manuscript - **"Establishment of expression in the SHORTROOT-SCARECROW transcriptional cascade is through opposing activities of both activators and repressors"** by Sparks et al., Developmental Cell 2016*
+*This repository contains the data and scripts used for the manuscript - **"Establishment of expression in the SHORTROOT-SCARECROW transcriptional cascade through opposing activities of both activators and repressors"** by Sparks et al., Developmental Cell 2016*
+
+For information and scripts related to webhosting networks - visit https://github.com/eesparks/Root_Transcriptional_Network.
 
 ###Network:
 1. Enrichment_Analysis.R - Script for network randomization via edge switching.
