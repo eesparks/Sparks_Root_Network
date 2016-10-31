@@ -1,7 +1,9 @@
 ##Summary of Scripts and Data Used in Sparks et al. Developmental Cell, 2016  
 
 ---   
-*This repository contains the data and scripts used for the manuscript - **"Establishment of expression in the SHORTROOT-SCARECROW transcriptional cascade is through opposing activities of both activators and repressors"** by Sparks et al., Developmental Cell 2016*
+*This repository contains the data and scripts used for the manuscript - **"Establishment of expression in the SHORTROOT-SCARECROW transcriptional cascade through opposing activities of both activators and repressors"** by Sparks et al., Developmental Cell 2016*
+
+For information and scripts related to webhosting networks - visit https://github.com/eesparks/Root_Transcriptional_Network.
 
 ###Network:
 1. Enrichment_Analysis.R - Script for network randomization via edge switching.
@@ -32,7 +34,7 @@
 6. AtGenExpress_Dev.csv - AtGenExpress Developmental only.
 7. AtGenExpress_Biotic.csv - AtGenExpress Biotic only.
 8. AtGenExpress_Light.csv - AtGenExpress Light only.
-9. Microarray_CelLTypes.csv - Compiled root cell type specific expression data for the TFs in the network.
+9. Microarray_CellTypes.csv - Compiled root cell type specific expression data for the TFs in the network.
 4. Pearson_Correlation.R - Script used to perform Pearson correlation on clusters.
 5. Clusters_Summary.csv - Cluster assignment for node similarity based clustering, root cell type-specific microarray clustering and AtGenExpress clustering.
 6. TestModuleClustering.R - Script used to cluster by node similarity.     
